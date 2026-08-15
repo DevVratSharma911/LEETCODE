@@ -9,7 +9,6 @@ public:
             Xor=nums[r]^Xor;
             if(nums[r] !=0)nonzero=true;
             }
-            int tempxor=Xor;
             
             if(Xor!=0){
                 return n;
